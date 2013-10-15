@@ -4,6 +4,10 @@ This is xcplugin for Xcode 5.0 that improve Comparison Editor's revision pop-up 
 
 ![screenshot](screenshot.png)
 
+
+Binary is located at [Releases](https://github.com/hetima/WakariyasuiCommitPopup/releases).
+
+
 # Author
 
 http://hetima.com/  
