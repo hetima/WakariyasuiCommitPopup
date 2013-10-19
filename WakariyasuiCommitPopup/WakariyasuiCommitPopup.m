@@ -83,6 +83,9 @@ static NSString* WCPNameForIDESourceControlRevision(id rep)
         //shorten message
         if ([message length]>50) message=[[message substringToIndex:47]stringByAppendingString:@"..."];
         
+        //PathControl can't draw multi-line
+        message=[message stringByReplacingOccurrencesOfString:@"\n" withString:@" "];
+        
         //I don't need author
         author=@"";
         
