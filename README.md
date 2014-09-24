@@ -1,6 +1,6 @@
 #WakariyasuiCommitPopup
 
-This is xcplugin for Xcode 5.0 that improve Comparison Editor's revision pop-up menu.
+This is xcplugin for Xcode 5 and 6 that improve Comparison Editor's revision pop-up menu.
 
 ![screenshot](screenshot.png)
 
